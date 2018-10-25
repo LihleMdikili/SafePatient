@@ -30,10 +30,10 @@ C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\obj\Deb
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\obj\Debug\res\layout\registration.xml
+C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\obj\Debug\res\values\style.xml
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\obj\Debug\R.cs.flag
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\obj\Debug\R.txt
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\obj\Debug\uploadflags.txt
-C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\bin\Debug\SafePatient.Droid.dll
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\bin\Debug\Mono.Android.pdb
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\bin\Debug\Mono.Android.Export.pdb
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Droid\bin\Debug\mscorlib.pdb

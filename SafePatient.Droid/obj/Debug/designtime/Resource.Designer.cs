@@ -101,6 +101,22 @@ namespace SafePatient.Droid
 			}
 		}
 		
+		public partial class Array
+		{
+			
+			// aapt resource value: 0
+			public static int country_arrays = 0;
+			
+			static Array()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Array()
+			{
+			}
+		}
+		
 		public partial class Attribute
 		{
 			
@@ -1363,6 +1379,9 @@ namespace SafePatient.Droid
 			// aapt resource value: 2131427389
 			public static int ripple_material_light = 2131427389;
 			
+			// aapt resource value: 0
+			public static int safeOrange = 0;
+			
 			// aapt resource value: 2131427390
 			public static int secondary_text_default_material_dark = 2131427390;
 			
@@ -2109,6 +2128,9 @@ namespace SafePatient.Droid
 			// aapt resource value: 2130837613
 			public static int avd_show_password_3 = 2130837613;
 			
+			// aapt resource value: 0
+			public static int confirmButton = 0;
+			
 			// aapt resource value: 2130837589
 			public static int design_bottom_navigation_item_background = 2130837589;
 			
@@ -2260,6 +2282,9 @@ namespace SafePatient.Droid
 			// aapt resource value: 2131492902
 			public static int bottom = 2131492902;
 			
+			// aapt resource value: 0
+			public static int button1 = 0;
+			
 			// aapt resource value: 2131492939
 			public static int buttonPanel = 2131492939;
 			
@@ -2328,6 +2353,9 @@ namespace SafePatient.Droid
 			
 			// aapt resource value: 2131492882
 			public static int disableHome = 2131492882;
+			
+			// aapt resource value: 0
+			public static int editText1 = 0;
 			
 			// aapt resource value: 2131492966
 			public static int edit_query = 2131492966;
@@ -2400,6 +2428,18 @@ namespace SafePatient.Droid
 			
 			// aapt resource value: 2131493013
 			public static int line3 = 2131493013;
+			
+			// aapt resource value: 0
+			public static int linearLayout1 = 0;
+			
+			// aapt resource value: 0
+			public static int linearLayout2 = 0;
+			
+			// aapt resource value: 0
+			public static int linearLayout3 = 0;
+			
+			// aapt resource value: 0
+			public static int linearLayout5 = 0;
 			
 			// aapt resource value: 2131492879
 			public static int listMode = 2131492879;
@@ -2548,6 +2588,9 @@ namespace SafePatient.Droid
 			// aapt resource value: 2131492940
 			public static int spacer = 2131492940;
 			
+			// aapt resource value: 0
+			public static int spinner1 = 0;
+			
 			// aapt resource value: 2131492872
 			public static int split_action_bar = 2131492872;
 			
@@ -2595,6 +2638,9 @@ namespace SafePatient.Droid
 			
 			// aapt resource value: 0
 			public static int textView1 = 0;
+			
+			// aapt resource value: 0
+			public static int textView2 = 0;
 			
 			// aapt resource value: 2131492992
 			public static int text_input_password_toggle = 2131492992;
@@ -3025,6 +3071,9 @@ namespace SafePatient.Droid
 			
 			// aapt resource value: 2131099683
 			public static int character_counter_pattern = 2131099683;
+			
+			// aapt resource value: 0
+			public static int country_prompt = 0;
 			
 			// aapt resource value: 2131099684
 			public static int password_toggle_content_description = 2131099684;

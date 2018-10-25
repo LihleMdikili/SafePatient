@@ -1,9 +1,9 @@
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Core\bin\Debug\netstandard2.0\SafePatient.Core.deps.json
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Core\bin\Debug\netstandard2.0\SafePatient.Core.dll
+C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Core\bin\Debug\netstandard2.0\SafePatient.Core.pdb
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Core\obj\Debug\netstandard2.0\SafePatient.Core.csprojAssemblyReference.cache
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Core\obj\Debug\netstandard2.0\SafePatient.Core.csproj.CoreCompileInputs.cache
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Core\obj\Debug\netstandard2.0\SafePatient.Core.AssemblyInfoInputs.cache
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Core\obj\Debug\netstandard2.0\SafePatient.Core.AssemblyInfo.cs
-C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Core\bin\Debug\netstandard2.0\SafePatient.Core.pdb
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Core\obj\Debug\netstandard2.0\SafePatient.Core.dll
 C:\Users\LihleMdikili\source\repos\Xamarin\SafePatient\SafePatient.Core\obj\Debug\netstandard2.0\SafePatient.Core.pdb

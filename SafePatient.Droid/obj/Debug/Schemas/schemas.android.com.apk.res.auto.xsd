@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>10/25/2018 2:28:57 PM</xs:documentation>
+    <xs:documentation>10/25/2018 5:36:22 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -374,6 +374,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -831,6 +832,7 @@
             <xs:enumeration value="@string/appbar_scrolling_view_behavior" />
             <xs:enumeration value="@string/bottom_sheet_behavior" />
             <xs:enumeration value="@string/character_counter_pattern" />
+            <xs:enumeration value="@string/country_prompt" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
             <xs:enumeration value="@string/path_password_eye_mask_strike_through" />
@@ -980,6 +982,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -1528,6 +1531,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -2053,6 +2057,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -2635,6 +2640,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -2900,6 +2906,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -3425,6 +3432,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -3882,6 +3890,7 @@
             <xs:enumeration value="@string/appbar_scrolling_view_behavior" />
             <xs:enumeration value="@string/bottom_sheet_behavior" />
             <xs:enumeration value="@string/character_counter_pattern" />
+            <xs:enumeration value="@string/country_prompt" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
             <xs:enumeration value="@string/path_password_eye_mask_strike_through" />
@@ -4439,6 +4448,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -4964,6 +4974,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -6439,6 +6450,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -7022,6 +7034,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -7547,6 +7560,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -8156,6 +8170,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -8655,6 +8670,7 @@
             <xs:enumeration value="@string/appbar_scrolling_view_behavior" />
             <xs:enumeration value="@string/bottom_sheet_behavior" />
             <xs:enumeration value="@string/character_counter_pattern" />
+            <xs:enumeration value="@string/country_prompt" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
             <xs:enumeration value="@string/path_password_eye_mask_strike_through" />
@@ -8789,6 +8805,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -8903,6 +8920,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -9498,6 +9516,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -10008,6 +10027,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -10205,6 +10225,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -10715,6 +10736,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -10912,6 +10934,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -11437,6 +11460,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -11894,6 +11918,7 @@
             <xs:enumeration value="@string/appbar_scrolling_view_behavior" />
             <xs:enumeration value="@string/bottom_sheet_behavior" />
             <xs:enumeration value="@string/character_counter_pattern" />
+            <xs:enumeration value="@string/country_prompt" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
             <xs:enumeration value="@string/path_password_eye_mask_strike_through" />
@@ -11987,6 +12012,7 @@
             <xs:enumeration value="@string/appbar_scrolling_view_behavior" />
             <xs:enumeration value="@string/bottom_sheet_behavior" />
             <xs:enumeration value="@string/character_counter_pattern" />
+            <xs:enumeration value="@string/country_prompt" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
             <xs:enumeration value="@string/path_password_eye_mask_strike_through" />
@@ -12532,6 +12558,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -12989,6 +13016,7 @@
             <xs:enumeration value="@string/appbar_scrolling_view_behavior" />
             <xs:enumeration value="@string/bottom_sheet_behavior" />
             <xs:enumeration value="@string/character_counter_pattern" />
+            <xs:enumeration value="@string/country_prompt" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
             <xs:enumeration value="@string/path_password_eye_mask_strike_through" />
@@ -13138,6 +13166,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -13595,6 +13624,7 @@
             <xs:enumeration value="@string/appbar_scrolling_view_behavior" />
             <xs:enumeration value="@string/bottom_sheet_behavior" />
             <xs:enumeration value="@string/character_counter_pattern" />
+            <xs:enumeration value="@string/country_prompt" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
             <xs:enumeration value="@string/path_password_eye_mask_strike_through" />
@@ -13744,6 +13774,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -14296,6 +14327,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -14700,6 +14732,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -15157,6 +15190,7 @@
             <xs:enumeration value="@string/appbar_scrolling_view_behavior" />
             <xs:enumeration value="@string/bottom_sheet_behavior" />
             <xs:enumeration value="@string/character_counter_pattern" />
+            <xs:enumeration value="@string/country_prompt" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
             <xs:enumeration value="@string/path_password_eye_mask_strike_through" />
@@ -15333,6 +15367,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -15733,6 +15768,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -16258,6 +16294,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -16952,6 +16989,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -17462,6 +17500,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -17659,6 +17698,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -18196,6 +18236,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -18706,6 +18747,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -18903,6 +18945,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -19782,6 +19825,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -20307,6 +20351,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -21009,6 +21054,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -22622,6 +22668,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -22819,6 +22866,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -23329,6 +23377,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -23688,6 +23737,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -25020,6 +25070,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -25530,6 +25581,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -25727,6 +25779,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -26252,6 +26305,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
@@ -26762,6 +26816,7 @@
             <xs:enumeration value="@color/primary_text_disabled_material_light" />
             <xs:enumeration value="@color/ripple_material_dark" />
             <xs:enumeration value="@color/ripple_material_light" />
+            <xs:enumeration value="@color/safeOrange" />
             <xs:enumeration value="@color/secondary_text_default_material_dark" />
             <xs:enumeration value="@color/secondary_text_default_material_light" />
             <xs:enumeration value="@color/secondary_text_disabled_material_dark" />
@@ -27020,6 +27075,7 @@
             <xs:enumeration value="@drawable/notification_template_icon_low_bg" />
             <xs:enumeration value="@drawable/notification_tile_bg" />
             <xs:enumeration value="@drawable/notify_panel_notification_icon_bg" />
+            <xs:enumeration value="@drawable/xmlfile1" />
             <xs:enumeration value="@mipmap/ic_launcher" />
             <xs:enumeration value="@mipmap/ic_launcher_foreground" />
             <xs:enumeration value="@mipmap/ic_launcher_round" />
