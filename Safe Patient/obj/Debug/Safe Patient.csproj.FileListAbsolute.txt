@@ -1,59 +1,59 @@
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\Safe Patient.dll
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\Safe Patient.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\Safe_Patient.Safe_Patient.apk
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\Safe_Patient.Safe_Patient-Signed.apk
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\Safe Patient.csprojAssemblyReference.cache
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\Safe Patient.csproj.CoreCompileInputs.cache
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\Safe Patient.dll
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\Safe Patient.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\android\bin\Safe_Patient.Safe_Patient.apk
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\layout\activity_main.xml
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\layout\content_main.xml
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\values\colors.xml
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\values\dimens.xml
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\values\ic_launcher_background.xml
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\values\strings.xml
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\values\styles.xml
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\menu\menu_main.xml
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-hdpi\ic_launcher.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-mdpi\ic_launcher.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\R.cs.flag
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\R.txt
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\uploadflags.txt
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\Safe Patient.dll
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\Mono.Android.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\mscorlib.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\System.Core.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\System.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\System.Xml.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\System.ComponentModel.Composition.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\System.Net.Http.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\System.Runtime.Serialization.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\System.ServiceModel.Internals.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\bin\Debug\Mono.Security.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\linksrc\Mono.Android.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\linksrc\mscorlib.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\linksrc\System.Core.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\linksrc\System.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\linksrc\System.Xml.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\linksrc\System.Net.Http.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\linksrc\System.Runtime.Serialization.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\linksrc\Mono.Security.pdb
-C:\Users\LihleMdikili\source\repos\Safe Patient\Safe Patient\obj\Debug\linksrc\Safe Patient.dll.mdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\Safe Patient.dll
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\Safe Patient.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\Safe_Patient.Safe_Patient.apk
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\Safe_Patient.Safe_Patient-Signed.apk
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\Safe Patient.csproj.CoreCompileInputs.cache
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\Safe Patient.dll
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\Safe Patient.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\android\bin\Safe_Patient.Safe_Patient.apk
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\layout\activity_main.xml
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\values\colors.xml
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\values\ic_launcher_background.xml
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\values\strings.xml
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\values\styles.xml
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\R.cs.flag
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\R.txt
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\uploadflags.txt
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\Mono.Android.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\mscorlib.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\System.Core.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\System.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\System.Xml.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\System.Net.Http.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\Mono.Security.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\System.Core.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\System.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\Safe Patient.dll.mdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\Safe Patient.csprojAssemblyReference.cache
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\Safe Patient.dll.mdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\android\assets\Safe Patient.dll.mdb
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\bin\Debug\Safe Patient.dll
+C:\Users\LihleMdikili\source\repos\Xamarin\Safe Patient\Safe Patient\obj\Debug\linksrc\Safe Patient.dll.mdb

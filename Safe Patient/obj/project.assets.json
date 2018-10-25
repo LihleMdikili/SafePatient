@@ -360,11 +360,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LihleMdikili\\source\\repos\\Safe Patient\\Safe Patient\\Safe Patient.csproj",
+      "projectUniqueName": "C:\\Users\\LihleMdikili\\source\\repos\\Xamarin\\Safe Patient\\Safe Patient\\Safe Patient.csproj",
       "projectName": "Safe Patient",
-      "projectPath": "C:\\Users\\LihleMdikili\\source\\repos\\Safe Patient\\Safe Patient\\Safe Patient.csproj",
+      "projectPath": "C:\\Users\\LihleMdikili\\source\\repos\\Xamarin\\Safe Patient\\Safe Patient\\Safe Patient.csproj",
       "packagesPath": "C:\\Users\\LihleMdikili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LihleMdikili\\source\\repos\\Safe Patient\\Safe Patient\\obj\\",
+      "outputPath": "C:\\Users\\LihleMdikili\\source\\repos\\Xamarin\\Safe Patient\\Safe Patient\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
